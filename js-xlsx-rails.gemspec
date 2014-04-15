@@ -9,6 +9,8 @@ Gem::Specification.new do |gem|
   gem.authors       = ["Adrien Montfort"]
   gem.summary       = "Integrates JS-XLSX with Rails's asset pipeline"
   gem.homepage      = "https://github.com/idolweb/js-xlsx-rails"
+  gem.license       = 'MIT'
+  gem.description   = 'A gem that makes SheetJS/xslx available to the Rails asset pipeline.'
 
   gem.files         = Dir["{lib,vendor}/**/*"]
   gem.require_paths = ["lib"]
