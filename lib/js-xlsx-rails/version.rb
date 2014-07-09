@@ -1,5 +1,5 @@
 module Jsxlsx
   module Rails
-    VERSION = "0.5.10"
+    VERSION = "0.7.7"
   end
 end
