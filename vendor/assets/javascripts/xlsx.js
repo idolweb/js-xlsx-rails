@@ -1,1 +1,1 @@
-../../../js-xlsx/xlsx.js
+../../../js-xlsx/dist/xlsx.core.min.js
